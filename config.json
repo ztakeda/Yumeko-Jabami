@@ -1,0 +1,26 @@
+{
+  "APIs": {
+    "zenz": "https://zenzapis.xyz",
+    "apikey": "dce4e37959"
+  },
+  "options": {
+    "autoRead": false,
+    "self": true,
+    "mute": false,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "sessionName": {
+    "legacy": "/database/yumeko-legacy.json",
+    "multi": "/database/yumeko-multi.json"
+  },
+  "exif": {
+    "packname": "Yumeko Jabami",
+    "author": "By itsmeyudd"
+  },
+  "owner": [
+    "6285704347763"
+  ],
+  "timezone": "Asia/Jakarta",
+  "footer": "Yumeko Jabami"
+}
